@@ -1,6 +1,6 @@
 ### Side projects
 
-**[Qariee](https://github.com/Y3FAI/Qariee)**
+**[Rabi](https://github.com/Y3FAI/Rabi)**
 Modern Quran listening app.
 
 **[Tasky](https://github.com/Y3FAI/Tasky)**
