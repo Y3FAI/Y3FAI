@@ -1,3 +1,2 @@
 - **AI Engineer**
 - **IT STUDENT @ SEU**
----
