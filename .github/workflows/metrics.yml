@@ -34,17 +34,19 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
+          plugin_languages_repos_limit: 0
+          plugin_languages_details: percentage
           config_display: large
 
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Move 3D profile
         run: |
-          mv ./profile-3d-contrib/profile-3d.svg ./profile-3d.svg
+          mv ./profile-3d-contrib/profile-night-rainbow.svg ./profile-3d.svg
           rm -rf ./profile-3d-contrib
 
       - name: Commit changes
