@@ -8,6 +8,6 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Y3FAI&theme=transparent&hide_border=true&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&ring=000000&fire=000000" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Y3FAI&theme=transparent&hide_border=true&currStreakNum=333333&sideNums=333333&currStreakLabel=333333&sideLabels=333333&dates=333333&ring=333333&fire=333333" alt="GitHub Streak" />
 
 </div>
