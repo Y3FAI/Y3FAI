@@ -1,6 +1,6 @@
 <div align="center">
 
-**AI Engineer** · **IT STUDENT @ SEU**
+**IT STUDENT @ SEU**
 
 <br>
 
