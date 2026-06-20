@@ -18,7 +18,7 @@ jobs:
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Move 3D profile
